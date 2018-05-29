@@ -33,5 +33,4 @@ npm-debug.log
 public
 
 # Certain files
-.env
-/routes/api.js
+api.js
