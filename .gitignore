@@ -31,3 +31,7 @@ npm-debug.log
 
 # Public uploads
 public
+
+# Certain files
+/Users/alexbhdez/Documents/AlexBHdez/PROYECTOS/IRONHACK/CLASES/finalProject/cofluencerServer/.env
+/Users/alexbhdez/Documents/AlexBHdez/PROYECTOS/IRONHACK/CLASES/finalProject/cofluencerServer/routes/api.js
